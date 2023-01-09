@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Personal Information</title>
+</head>
+
+<body>
+    <h1>Personal Information</h1>
+    <form action="show.php">
+        what is your name title (Miss/Mrs./Mr./Miss/Master):<input type="text" name="title"><br>
+        what is your name :<input type="text" name="name"><br>
+        what is your age :<input type="text" name="age"><br>
+        what is your gender (Male/Female):<input type="text" name="gender"><br>
+        what is your status (single/married):<input type="text" name="status"><br>
+        <input type="Submit" value="submit">
+    </form>
+</body>
+
+</html>
