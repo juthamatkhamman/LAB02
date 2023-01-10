@@ -15,21 +15,21 @@
 
     echo "Name : ";
     if ($age <= "14") 
-    { if ($gender == "Male")
+    { if ($gender == "male")
         {
             echo "Mstr.";
         }
-        else if ($gender == "Female")
+        else if ($gender == "female")
         {
            echo "Miss"; 
         }
     } 
     else if ($age >= "15") 
-    { if ($gender == "Male")
+    { if ($gender == "male")
         {
             echo "Mr.";
         }
-        else if ($gender == "Female")
+        else if ($gender == "female")
         { if ($status == "married")
             {
                 echo "Mrs.";
