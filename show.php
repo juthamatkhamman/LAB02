@@ -13,6 +13,8 @@
     echo "Age:"."$age"."<br>";
     echo "Gender:"."$gender"."<br>";
     echo "Status:"."$status"."<br>";
+
+    
     ?>
 
     
